@@ -1,2 +1,1 @@
-# effects-galleries-live
-Premium website for Effects Galleries
+Upload to GitHub and import into Vercel. Run npm install then deploy.
